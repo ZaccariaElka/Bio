@@ -7,7 +7,7 @@
 - Javascript | around 3 years
 
 
-**CONTACT**
+:envelope: **CONTACT**
 
 + contact@zaccaria.net
 + zaccaria.net _(coming soon)_
