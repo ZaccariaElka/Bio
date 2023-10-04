@@ -1,10 +1,6 @@
 
  ## :grey_question: About me
-
-Italian 🇮🇹
-
-I speak italian, english, german and a bit of spanish
-
+:it: | 17 yo
 
 :grey_exclamation: **EXPERIENCE**
 - C# | `September 2023`
