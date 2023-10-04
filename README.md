@@ -7,8 +7,6 @@
 - Javascript | around 3 years
 
 
- **CONTACT**
- 
- contact@zaccaria.net
- 
- zaccaria.net _(coming soon)_
+**CONTACT**
+contact@zaccaria.net
+zaccaria.net _(coming soon)_
