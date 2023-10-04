@@ -1,6 +1,10 @@
 
  ## :grey_question: About me
 
+Italian :it:
+
+
+
 :grey_exclamation: **EXPERIENCE**
 - C# | `September 2023`
 - Python | `April 2023`
