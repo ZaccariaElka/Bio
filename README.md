@@ -1,8 +1,8 @@
 
  ## :grey_question: About me
 
-Italian :it:
-
+Italian 🇮🇹
+I speak italian, english, german and a bit of spanish
 
 
 :grey_exclamation: **EXPERIENCE**
