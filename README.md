@@ -2,9 +2,9 @@
  ## :grey_question: About me
 
 :grey_exclamation: **Experience**
-- C# | september 2023
-- Python | april 2023
-- Javascript | jun 2020 
+- C# | `September 2023`
+- Python | `April 2023`
+- Javascript | `June 2020 `
 
 
 :envelope: **CONTACT**
