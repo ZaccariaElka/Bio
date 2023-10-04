@@ -1,7 +1,7 @@
 
  ## :grey_question: About me
 
-:grey_exclamation: **Experience**
+:grey_exclamation: **EXPERIENCE**
 - C# | `September 2023`
 - Python | `April 2023`
 - Javascript | `June 2020 `
