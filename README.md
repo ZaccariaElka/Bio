@@ -1,3 +1,13 @@
+
+ ## About me
+
+**Experience**
+- C# | 2 weeks
+- Python | 7 months
+- Javascript | around 3 years
+
+ 
+ 
  # Hello World
  ## Hello World
  ### Hello World
