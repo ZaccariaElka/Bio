@@ -11,3 +11,6 @@
 
 + contact@zaccaria.net
 + https://zaccaria.net _(coming soon)_
+
+# Update!
+> i won't upload any codes for a while because i'm working on some hardware projects at the moment!
