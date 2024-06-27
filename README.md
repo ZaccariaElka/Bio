@@ -13,4 +13,4 @@
 + https://zaccaria.net _(coming soon)_
 
 # Notes
-> going to upload some random codes i've written lately.
+> _everything will be uploaded within Sunday, 30th June_
