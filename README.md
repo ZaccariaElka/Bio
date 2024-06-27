@@ -13,4 +13,4 @@
 + https://zaccaria.net _(coming soon)_
 
 # Notes
-> _everything will be uploaded within Sunday, 30th June_
+> _my latest projects will be uploaded within Sunday, 30th June_
