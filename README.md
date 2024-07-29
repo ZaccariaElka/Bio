@@ -1,6 +1,6 @@
 
  ## :grey_question: About me
-:it: | 18 yo
+18 yo programmer
 Looking for Apprenticeships / Internships in Vienna, please contact me for further infos.
 
 :grey_exclamation: **EXPERIENCE**
