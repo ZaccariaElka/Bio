@@ -10,7 +10,4 @@
 :envelope: **CONTACT**
 
 + contact@zaccaria.net
-+ https://zaccaria.net _(coming soon)_
-
-# Notes
-> _my latest projects will be uploaded within Sunday, 30th June_
++ https://zaccaria.net 
