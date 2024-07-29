@@ -1,6 +1,7 @@
 
  ## :grey_question: About me
 :it: | 18 yo
+Looking for Apprenticeships / Internships in Vienna, please contact me for further infos.
 
 :grey_exclamation: **EXPERIENCE**
 - C# | Mainly learned in school
