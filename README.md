@@ -3,8 +3,9 @@
 :it: | 18 yo
 
 :grey_exclamation: **EXPERIENCE**
-- C# | `September 2023`
-- Python | `April 2023`
+- C# | Mainly learned in school
+- Python | Used most in most of my projects
+- Javascript | Had some experience with Node.js a few years ago
 
 
 :envelope: **CONTACT**
