@@ -6,7 +6,7 @@ Looking for Apprenticeships / Internships in Vienna, please contact me for furth
 
 :grey_exclamation: **EXPERIENCE**
 - C# | Mainly learned in school
-- Python | Used most in most of my projects
+- Python | Used in most of my projects
 - Javascript | Had some experience with Node.js a few years ago
 
 
